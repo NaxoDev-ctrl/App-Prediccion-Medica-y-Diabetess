@@ -4,6 +4,7 @@ Ivan Hernandez,
 Ignacio Sanhueza
 
 aplicacion en github: https://github.com/NaxoDev-ctrl/App-Prediccion-Medica-y-Diabetess/tree/main
+
 link: app-prediccion-medica-y-diabetess-production.up.railway.app
 
 # Aplicación de Predicciones Médicas
