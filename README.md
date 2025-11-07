@@ -3,6 +3,7 @@ Tamara Larenas,
 Ivan Hernandez,
 Ignacio Sanhueza
 
+link: app-prediccion-medica-y-diabetess-production.up.railway.app
 
 # Aplicación de Predicciones Médicas
 Una aplicación web interactiva construida con Streamlit que predice costos de seguros médicos y riesgo de diabetes usando modelos de machine learning.
